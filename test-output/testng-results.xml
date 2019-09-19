@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-09-19T12:46:36Z" name="Default suite" finished-at="2019-09-19T12:47:52Z" duration-ms="75782">
+    <groups>
+    </groups>
+    <test started-at="2019-09-19T12:46:36Z" name="Default test" finished-at="2019-09-19T12:47:52Z" duration-ms="75782">
+      <class name="com.atmecs.testscripts.BookBus">
+        <test-method signature="initializeBrowser()[pri:0, instance:com.atmecs.testscripts.BookBus@3d121db3]" started-at="2019-09-19T12:46:36Z" name="initializeBrowser" finished-at="2019-09-19T12:47:19Z" duration-ms="42723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method signature="searching_Bus()[pri:1, instance:com.atmecs.testscripts.BookBus@3d121db3]" started-at="2019-09-19T12:47:19Z" name="searching_Bus" finished-at="2019-09-19T12:47:38Z" duration-ms="18715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searching_Bus -->
+        <test-method signature="selecting_Bus()[pri:2, instance:com.atmecs.testscripts.BookBus@3d121db3]" started-at="2019-09-19T12:47:38Z" name="selecting_Bus" finished-at="2019-09-19T12:47:52Z" duration-ms="14280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selecting_Bus -->
+      </class> <!-- com.atmecs.testscripts.BookBus -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
